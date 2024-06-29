@@ -1,4 +1,4 @@
-# String Calculator
+# String Calculator TDD Kata
 
 ## Project Description
 
